@@ -5,8 +5,8 @@
 }
 
 /*Clear Fix--------------------*/
-.group:after {
+/*.group:after {
   content: "";
   display: table;
   clear: both;
-}
+} */
